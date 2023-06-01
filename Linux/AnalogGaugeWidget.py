@@ -1,22 +1,3 @@
-# inspired by: https://github.com/Werkov/PyQt4/blob/master/examples/widgets/analogclock.py
-# Thanks to https://stackoverflow.com/
-
-# Updated by 
-# Updated by
-########################################################################
-## SPINN DESIGN CODE
-# SPINN DESIGN CODE
-# YOUTUBE: (SPINN TV) https://www.youtube.com/spinnTv
-# WEBSITE: spinndesign.com
-# GitHub : https://github.com/KhamisiKibet
-########################################################################
-
-
-########################################################################
-## IMPORTS
-# IMPORTS
-########################################################################
-
 import os
 @@ -27,7 +27,7 @@
 
